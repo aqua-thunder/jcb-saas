@@ -32,7 +32,7 @@ const invoiceController = require("./controllers/invoice-controller.js");
 
 
 app.get("/api/health", (req, res) => {
-  res.json({ status: "OK" });
+  res.status(200).json({ status: "OK" });
 });
 
 app.use("/api/machine", machineRoute);
