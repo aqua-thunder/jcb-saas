@@ -1,0 +1,9 @@
+{
+    "name": "jcb-project",
+    "version": "1.0.0",
+    "description": "JCB SaaS Platform",
+    "scripts": {
+        "build": "npm run build --prefix client",
+        "install:all": "npm install --prefix client && npm install --prefix api"
+    }
+}
