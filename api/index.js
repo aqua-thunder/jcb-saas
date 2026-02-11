@@ -47,10 +47,11 @@ app.use("/api/maintenance-log", require("./router/maintenance-log-router.js"));
 
 app.use("/api/auth", authRoute);
 
-const PORT = 7000;
+// const PORT = 7000;
 
-connectDb().then(() => {
-  app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
-  });
-});
+connectDb()
+// .then(() => {
+//   app.listen(PORT, () => {
+//     console.log(`Server is running on port ${PORT}`);
+//   });
+// });
