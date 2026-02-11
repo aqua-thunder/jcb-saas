@@ -1,7 +1,6 @@
 {
   "name": "mern-backend",
   "private": true,
-  "type": "module",
   "scripts": {
     "dev": "node server.js"
   },
@@ -12,3 +11,4 @@
     "dotenv": "^16.4.1"
   }
 }
+

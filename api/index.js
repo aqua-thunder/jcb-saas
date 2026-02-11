@@ -13,7 +13,7 @@ const rentalRoute = require("./router/rental-router.js");
 
 
 const authRoute = require("./router/authRoutes.js");
-const protect = require("./middleware/authMiddleware");
+const protect = require("./middleware/authMiddleware.js");
 
 const corsOptions = {
   origin: ["http://localhost:5173", "http://127.0.0.1:5173"],
