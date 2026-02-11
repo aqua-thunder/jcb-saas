@@ -1,0 +1,65 @@
+[
+  { "company": "CAT", "model": "320 GC Hydraulic Excavator" },
+  { "company": "CAT", "model": "323D3 Excavator" },
+  { "company": "CAT", "model": "336D2 Excavator" },
+  { "company": "CAT", "model": "416F2 Backhoe Loader" },
+  { "company": "CAT", "model": "140K Motor Grader" },
+
+  { "company": "Tata Hitachi", "model": "EX 210LC Prime Excavator" },
+  { "company": "Tata Hitachi", "model": "ZAXIS 225USR Excavator" },
+  { "company": "Tata Hitachi", "model": "ZAXIS 470H Excavator" },
+  { "company": "Tata Hitachi", "model": "TL 340H Prime Wheel Loader" },
+
+  { "company": "Komatsu", "model": "PC130-8 Excavator" },
+  { "company": "Komatsu", "model": "PC300LC Excavator" },
+  { "company": "Komatsu", "model": "GD535 Motor Grader" },
+  { "company": "Komatsu", "model": "WA200 Wheel Loader" },
+
+  { "company": "Volvo CE", "model": "EC140DL Excavator" },
+  { "company": "Volvo CE", "model": "EC480DL Excavator" },
+  { "company": "Volvo CE", "model": "SD110 Soil Compactor" },
+  { "company": "Volvo CE", "model": "G946 Motor Grader" },
+
+  { "company": "Hyundai", "model": "R140 Smart Excavator" },
+  { "company": "Hyundai", "model": "R215 SMART Plus Excavator" },
+  { "company": "Hyundai", "model": "HX380L Excavator" },
+  { "company": "Hyundai", "model": "HM2022 Motor Grader" },
+
+  { "company": "CASE", "model": "721EX Backhoe Loader" },
+  { "company": "CASE", "model": "770NX Backhoe Loader" },
+  { "company": "CASE", "model": "1110EX Soil Compactor" },
+
+  { "company": "Mahindra", "model": "EarthMaster SX90 Backhoe Loader" },
+  { "company": "Mahindra", "model": "EarthMaster VX80 Backhoe Loader" },
+  { "company": "Mahindra", "model": "EarthMaster CS25 Compactor" },
+
+  { "company": "SANY", "model": "SY135C Excavator" },
+  { "company": "SANY", "model": "SY245H Excavator" },
+  { "company": "SANY", "model": "SSR120 Soil Compactor" },
+
+  { "company": "LiuGong", "model": "CLG 835H Wheel Loader" },
+  { "company": "LiuGong", "model": "CLG 922F Excavator" },
+  { "company": "LiuGong", "model": "CLG 777A Motor Grader" },
+
+  { "company": "Doosan", "model": "DX170W Excavator" },
+  { "company": "Doosan", "model": "DX300LCA Excavator" },
+
+  { "company": "ACE", "model": "AX-124 Crane" },
+  { "company": "ACE", "model": "AX-160 Pick & Carry Crane" },
+  { "company": "ACE", "model": "TC 5040 Truck Crane" },
+
+  { "company": "Escorts", "model": "Digmax II Backhoe Loader" },
+  { "company": "Escorts", "model": "Hydra 14 Pick & Carry Crane" },
+  { "company": "Escorts", "model": "HM 2021 Motor Grader" },
+
+  { "company": "BEML", "model": "BG605 Motor Grader" },
+  { "company": "BEML", "model": "BE1000-1 Dump Truck" },
+  { "company": "BEML", "model": "BL200-1 Wheel Loader" },
+
+  { "company": "XCMG", "model": "XE215C Excavator" },
+  { "company": "XCMG", "model": "LW500FN Wheel Loader" },
+  { "company": "XCMG", "model": "XS163J Soil Compactor" },
+
+  { "company": "Zoomlion", "model": "ZE215E Excavator" },
+  { "company": "Zoomlion", "model": "ZL50GN Wheel Loader" }
+]
