@@ -30,6 +30,11 @@ app.use(cors(corsOptions));
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 const invoiceController = require("./controllers/invoice-controller.js");
 
+
+app.get("/api/health", (req, res) => {
+  res.json({ status: "OK" });
+});
+
 app.use("/api/machine", machineRoute);
 app.use("/api/driver", driverRoute);
 app.use("/api/invoice", invoiceRoute);
